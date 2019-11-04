@@ -66,7 +66,7 @@ After some inspiration from [@raesene](https://twitter.com/raesene) [here](https
 3. Creating a benign image with the sole purpose of raising awareness by having it link to an informative repository `README`.
 4. Finally, the benign image was mirrored to all the squatted orgs with identical names and tags of the images from their official locations.
 
-Hence the obnoxious goose reference: _HONK HONK HONK_ 
+Hence the [obnoxious goose reference](https://goose.game/): _HONK HONK HONK_ 
 
 ## What Can I Do to Prevent This From Happening Again?
 
@@ -83,9 +83,10 @@ A few things:
 
 ## Resources
 
+1. [Untitled Goose Game](https://goose.game/)
 1. [Registries.conf](https://src.fedoraproject.org/rpms/skopeo/blob/master/f/registries.conf)
-2. [Containers-common RPM](https://rpmfind.net/linux/rpm2html/search.php?query=containers-common)
-3. [@Raesene's Blog - Typosquatting in a Multi-Registry World](https://raesene.github.io/blog/2019/09/25/typosquatting-in-a-multi-registry-world/)
-4. [Reported Issue to Red Hat](https://lists.podman.io/archives/list/security@lists.podman.io/thread/BX4PIHHVHGDDLYLX53WUBVLFM3YRVXKM/)
-4. https://access.redhat.com/articles/3116561 and https://bugzilla.redhat.com/show_bug.cgi?id=1700140
-5. [Kubernetes Dynamic Admission Control](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/)
+1. [Containers-common RPM](https://rpmfind.net/linux/rpm2html/search.php?query=containers-common)
+1. [@Raesene's Blog - Typosquatting in a Multi-Registry World](https://raesene.github.io/blog/2019/09/25/typosquatting-in-a-multi-registry-world/)
+1. [Reported Issue to Red Hat](https://lists.podman.io/archives/list/security@lists.podman.io/thread/BX4PIHHVHGDDLYLX53WUBVLFM3YRVXKM/)
+1. https://access.redhat.com/articles/3116561 and https://bugzilla.redhat.com/show_bug.cgi?id=1700140
+1. [Kubernetes Dynamic Admission Control](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/)
