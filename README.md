@@ -20,7 +20,7 @@ https://github.com/bgeesaman/registry-search-order
 
 and you followed that link here, you might be wondering how and why that happened.
 
-First things first: __you have not been hacked__.  Your system either directly or indirectly ran this container, but I assure you, it's a benign iamge and only prints the message above.
+First things first: __you have not been hacked, but you came very close__.  Your system either directly or indirectly ran this container, but I assure you, it's a benign image and only prints the message above.
 
 ## What Happened?
 
