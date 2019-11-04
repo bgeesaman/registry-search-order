@@ -33,7 +33,7 @@ One of a few things:
    ```toml
    # Libpod/Podman/Fedora
    [registries.search]
-   registries = ['docker.io', 'registry.fedoraproject.org', 'quay.io', 'registry.access.redhat.com' 'registry.centos.org']
+   registries = ['docker.io', 'registry.fedoraproject.org', 'quay.io', 'registry.access.redhat.com', 'registry.centos.org']
    ```
    
    ```toml
