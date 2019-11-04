@@ -53,7 +53,7 @@ One of a few things:
 
 ![untitled goose game goose with knife in mouth](img/goose.png)
 
-The registry search order feature is useful, but an obnoxious goose might prevent you from having a beautiful day in the garden if they decide to "squat" on your organization name in another registry and "mirror" images of identical names and tags to run an image of their choosing and not the one you were expecting.
+The registry search order feature is useful, but a horrible goose might prevent you from having a beautiful day in the village if they decide to "squat" on your organization name in another registry and "mirror" images of identical names and tags to run an image of their choosing and not the one you were expecting.
 
 __And that's how you might accidentally fall into this form of watering-hole attack and have untrusted code run on your machine or inside your cluster__.
 
@@ -66,7 +66,7 @@ After some inspiration from [@raesene](https://twitter.com/raesene) [here](https
 3. Creating a benign image with the sole purpose of raising awareness by having it link to an informative repository `README`.
 4. Finally, the benign image was mirrored to all the squatted orgs with identical names and tags of the images from their official locations.
 
-Hence the [obnoxious goose reference](https://goose.game/): _HONK HONK HONK_ 
+Hence the [horrible goose reference](https://goose.game/): _HONK HONK HONK_ 
 
 ## What Can I Do to Prevent This From Happening Again?
 
