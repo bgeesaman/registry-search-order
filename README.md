@@ -1,4 +1,4 @@
-# Container Registry Search Order and "Org Sqatting"
+# Container Registry Search Order and "Org Squatting"
 
 ## Why am I here?
 
