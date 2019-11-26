@@ -83,7 +83,7 @@ A few things:
 
 ## Resources
 
-1. [Untitled Goose Game](https://goose.game/)
+1. [Untitled Goose Game](https://goose.game/) - Note: Neither House House nor Panic are in any way affiliated with this project, nor do they endorse it.  That said, it's a great game, and you should consider owning it.
 1. [Registries.conf](https://src.fedoraproject.org/rpms/skopeo/blob/master/f/registries.conf)
 1. [Containers-common RPM](https://rpmfind.net/linux/rpm2html/search.php?query=containers-common)
 1. [@Raesene's Blog - Typosquatting in a Multi-Registry World](https://raesene.github.io/blog/2019/09/25/typosquatting-in-a-multi-registry-world/)
