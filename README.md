@@ -51,8 +51,6 @@ One of a few things:
 
 ## Org-Squatting
 
-![untitled goose game goose with knife in mouth](img/goose.png)
-
 The registry search order feature is useful, but a horrible goose might prevent you from having a beautiful day in the village if they decide to "squat" on your organization name in another registry and "mirror" images of identical names and tags to run an image of their choosing and not the one you were expecting.
 
 __And that's how you might accidentally fall into this form of watering-hole attack and have untrusted code run on your machine or inside your cluster__.
