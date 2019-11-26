@@ -57,7 +57,7 @@ __And that's how you might accidentally fall into this form of watering-hole att
 
 Oops.  Not good.
 
-After some inspiration from [@raesene](https://twitter.com/raesene) [here](https://raesene.github.io/blog/2019/09/25/typosquatting-in-a-multi-registry-world/), I decided to see how practical this form of attack would be and to use this mechanism to raise awareness of [the issue](https://lists.podman.io/archives/list/security@lists.podman.io/thread/BX4PIHHVHGDDLYLX53WUBVLFM3YRVXKM/).  This took the form of:
+After some inspiration from [@raesene](https://twitter.com/raesene) [here](https://raesene.github.io/blog/2019/09/25/typosquatting-in-a-multi-registry-world/), I decided to see how practical this form of attack would be and to use this mechanism to raise awareness of [the issue](https://lists.podman.io/archives/list/security@lists.podman.io/thread/BX4PIHHVHGDDLYLX53WUBVLFM3YRVXKM/) and now [this issue](https://github.com/containers/libpod/issues/4549).  This took the form of:
 
 1. Registering identically named organizations on `quay.io` that were available for common/popular organizations on `docker.io/DockerHub` in case `quay.io` comes first in your search order.
 2. Registering identically named organizations that live on `registry.redhat.io/registry.access.redhat.com` on  `docker.io/DockerHub` in case `docker.io` comes first.
@@ -88,5 +88,6 @@ A few things:
 1. [Containers-common RPM](https://rpmfind.net/linux/rpm2html/search.php?query=containers-common)
 1. [@Raesene's Blog - Typosquatting in a Multi-Registry World](https://raesene.github.io/blog/2019/09/25/typosquatting-in-a-multi-registry-world/)
 1. [Reported Issue to Red Hat](https://lists.podman.io/archives/list/security@lists.podman.io/thread/BX4PIHHVHGDDLYLX53WUBVLFM3YRVXKM/)
+1. [Issue created by Red Hat in libpod](https://github.com/containers/libpod/issues/4549)
 1. https://access.redhat.com/articles/3116561 and https://bugzilla.redhat.com/show_bug.cgi?id=1700140
 1. [Kubernetes Dynamic Admission Control](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/)
