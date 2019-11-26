@@ -68,6 +68,8 @@ After some inspiration from [@raesene](https://twitter.com/raesene) [here](https
 
 Hence the [horrible goose reference](https://goose.game/): _HONK HONK HONK_ 
 
+Note: Neither House House nor Panic are in any way affiliated with this project, nor do they endorse it.
+
 ## What Can I Do to Prevent This From Happening Again?
 
 A few things:
